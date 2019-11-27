@@ -12,12 +12,12 @@ public class elseladder2 {
 	{ 
 		System.out.println("A grade");
 	}
-	else if( m>=70 && m<=89);
+	else if( m>=70 && m<=89)
 	{
 		System.out.println(" B grade");
 	}
 	
-	else if( m>=50 && m<=69);
+	else if( m>=50 && m<=69)
 	{
 		System.out.println(" c grade");
 	}

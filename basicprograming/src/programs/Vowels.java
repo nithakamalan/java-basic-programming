@@ -11,7 +11,7 @@ public class Vowels {
 		int count=0;
 		for(int i=0; i<length;i++)
 		{
-		  char c = n.charAt(i);
+		  char ch = n.charAt(i);
 		 
 		 
 		 

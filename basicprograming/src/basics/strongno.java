@@ -22,7 +22,7 @@ public class strongno {
 		sum=sum+f;
 		n/=10;
 		n=n/10;
-		if(sum==n);
+		if(sum==n)
 		 {
 			 System.out.println("strong");
 		 }
